@@ -40,9 +40,9 @@
   ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
   <br/>
 
-<a href="https://github.com/timo-tech19/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=timo-tech19&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timo-tech19&theme=buefy&layout=compact" />
+<a href="https://github.com/PeroHub/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeroHub&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeroHub&theme=buefy&layout=compact" />
 </a>
 
 <br/>
