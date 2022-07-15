@@ -26,11 +26,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
@@ -51,7 +46,7 @@
 
 <p align="center">
 <a href="https://peterime.netlify.app"><img alt="Website" src="https://img.shields.io/badge/peterime.netlify.appp-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/peter-ime-bbb18719b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Timo%20Heman-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/peter-ime-bbb18719b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Peter%20Ime-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Wuzpa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Wuzpa-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:peterime49@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-peterime49@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
