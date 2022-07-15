@@ -50,8 +50,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://timotech.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-timotech.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/timo-heman-002302160/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Timo%20Heman-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/timo__tech"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-timo__tech-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:timoheman16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-timoheman16@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://peterime.netlify.app"><img alt="Website" src="https://img.shields.io/badge/peterime.netlify.appp-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/peter-ime-bbb18719b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Timo%20Heman-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/Wuzpa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Wuzpa-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:peterime49@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-peterime49@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
