@@ -2,9 +2,9 @@
 
 
 
-🎓 I'm a senior frontend developer.   
+🎓 I'm a senior frontend React developer.   
 🔭 In my spare time I'm working on open source projects   
-🌱 I’m currently learning Next.js  and TypeScript   
+🌱 I’m currently learning React Native   
 💬 I would love to talk about open source    
 👨‍💻 My portfolio is available at https://peterime.netlify.app/  
 📫 How to reach me: peterime600@gmail.com    
