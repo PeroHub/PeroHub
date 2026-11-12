@@ -6,7 +6,7 @@
 🔭 In my spare time I'm working on open source projects   
 🌱 I’m currently learning React Native   
 💬 I would love to talk about open source    
-👨‍💻 My portfolio is available at https://peterime.netlify.app/  
+👨‍💻 My portfolio is available at https://www.techwithmrp.tech/ 
 📫 How to reach me: peterime600@gmail.com    
 
 
