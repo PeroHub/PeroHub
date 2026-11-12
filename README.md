@@ -4,10 +4,10 @@
 
 🎓 I'm a senior frontend React developer.   
 🔭 In my spare time I'm working on open source projects   
-🌱 I’m currently learning React Native   
+🌱 I’m currently building with Nodejs and React Native   
 💬 I would love to talk about open source    
 👨‍💻 My portfolio is available at https://www.techwithmrp.tech/ 
-📫 How to reach me: peterime600@gmail.com    
+📫 How to reach me: peterime49@gmail.com    
 
 
 
@@ -44,7 +44,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://peterime.netlify.app"><img alt="Website" src="https://img.shields.io/badge/peterime.netlify.appp-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/peter-ime-bbb18719b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Peter%20Ime-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Wuzpa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Wuzpa-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:peterime49@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-peterime49@gmail.com-blue?style=flat-square&logo=gmail"></a>
